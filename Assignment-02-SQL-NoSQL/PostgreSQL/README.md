@@ -1,9 +1,18 @@
 # PostgreSQL Assignment
 
-This folder contains the PostgreSQL solution for the Blibli SQL & NoSQL assignment.
+## Database
+Student Management System
 
 ## Files
 
-- schema.sql
-- sample_data.sql
-- queries.sql
+- schema.sql – Database schema
+- sample_data.sql – Sample data
+- queries.sql – Solutions for all 30 PostgreSQL queries
+
+## Tables
+
+- student
+- address
+- course
+- enrollment
+- marks
